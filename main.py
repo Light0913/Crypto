@@ -124,7 +124,7 @@ class Crypto:
 
 # 示例用法
 if __name__ == "__main__":
-    os.system("Crypto")
+    os.system("title Crypto")
 
     print("1.加密文件")
     print("2.解密文件")
